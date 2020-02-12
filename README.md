@@ -8,3 +8,4 @@
 - [iOSConfSG](https://iosconf.sg/)
 - [PHPConf.Asia](https://phpconf.asia/)
 - [JSConf.Asia](https://jsconf.asia/)
+- [GopherConSG](https://gophercon.sg/)
